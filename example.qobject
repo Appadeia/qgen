@@ -1,0 +1,8 @@
+include "QString.h"
+
+ObjectName {
+    function "name(int value)" : "void"
+    signal "name(int value)"
+
+    QString val
+}
